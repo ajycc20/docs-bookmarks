@@ -12,7 +12,6 @@
 * [cssarrowplease](http://www.cssarrowplease.com/) css对话框三角
 * [Clippy](https://bennettfeely.com/clippy/) 使用 css clip-path 做出各种形状的图形
 * [css-tricks](https://css-tricks.com/) css学习网站
-* 
 
   
 ## Design

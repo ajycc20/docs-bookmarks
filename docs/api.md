@@ -12,4 +12,4 @@
 * [API](https://github.com/insoxin/API) 姬长信API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 * [-Api](https://github.com/ajycc20/-Api) api集合
 * [API](https://github.com/windycom/API) Windy API
-* 
+* [搏天api](http://api.btstu.cn/) 高速稳定免费APi接口调用平台

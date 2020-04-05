@@ -4,6 +4,7 @@
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动添加HTML / XML关闭标记
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 自动重命名配对的HTML / XML标记
 * [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) 自动CSS前缀
+* [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) 在Azure中创建，浏览和更新全局分布的多模型数据库
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) 美化Visual Studio代码中的javascript，JSON，CSS，Sass，和HTML
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 括号颜色匹配
 * [Can I Use](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-caniuse) 直接在Vscode中对HTML5、CSS3、SVG、新JS API进行兼容性检查
