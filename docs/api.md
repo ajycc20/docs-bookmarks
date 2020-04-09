@@ -8,6 +8,7 @@
 * [BiliBili api](https://github.com/fython/BilibiliAPIDocs) 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
 * [qq-music-api](https://github.com/Rain120/qq-music-api) QQ 音乐API koa2实现
 * [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 网易云音乐 Node.js API service
+* [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music) 基于 electron-vue 开发的音乐播放器
 * [Meting](https://github.com/metowolf/Meting) 一个强大的音乐api框架
 * [API](https://github.com/insoxin/API) 姬长信API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 * [-Api](https://github.com/ajycc20/-Api) api集合
