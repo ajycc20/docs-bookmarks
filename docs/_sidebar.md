@@ -3,7 +3,7 @@
   * [React](react)
   * [UI](ui)
   * [CSS和设计](css&design)
-  * [前端常用](前端常用)
+  * [常用](常用)
   * [正则表达式](正则表达式)
   * [Node.js](nodejs)
   * [Api收集](api)
