@@ -15,3 +15,4 @@
 * [vue2-waterfall](https://github.com/PLDaily/vue2-waterfall) Vue2的AutoHeight Waterfall组件
 * [vue-waterfall-easy](https://github.com/lfyfly/vue-waterfall-easy) vue瀑布流组件
 * [vue-counTo](https://github.com/PanJiaChen/vue-countTo) 适用于vue的计数组件
+* [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) waterfall adaptive plugin for vue and support lazy load , very easy!
