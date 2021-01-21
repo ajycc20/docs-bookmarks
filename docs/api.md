@@ -15,3 +15,8 @@
 ------
 * [qq-music-api](https://github.com/Rain120/qq-music-api) QQ 音乐API koa2实现
 * [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 网易云音乐 Node.js API service
+
+### 天气Api
+------
+* [和风天气开发平台](https://dev.qweather.com/) 天气API 天气插件
+* [心知天气](https://www.seniverse.com/) 天气API 天气插件
